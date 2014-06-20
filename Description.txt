@@ -1,0 +1,3 @@
+Title: JSON
+Author: Boom
+Adds Support for JavaScript Object Notation
